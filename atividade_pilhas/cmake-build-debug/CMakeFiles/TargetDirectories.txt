@@ -1,3 +1,0 @@
-C:/Users/Gabriel Gregório/CLionProjects/atividade_pilhas/cmake-build-debug/CMakeFiles/atividade_pilhas.dir
-C:/Users/Gabriel Gregório/CLionProjects/atividade_pilhas/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Gabriel Gregório/CLionProjects/atividade_pilhas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
